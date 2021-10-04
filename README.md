@@ -1,1 +1,1 @@
-# todoozie
+# todoozie - Yet another todo app
